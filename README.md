@@ -7,6 +7,6 @@ that's not comment
 
 stevie's favourite ice cree flavours
 - meal worm
-shrimp flakes
-sunflower seeds
+-shrimp flakes
+-sunflower seeds
 
